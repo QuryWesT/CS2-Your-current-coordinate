@@ -1,0 +1,12 @@
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.AssemblyInfo.cs
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\bin\Debug\net8.0\Kordinat.deps.json
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\bin\Debug\net8.0\Kordinat.dll
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\bin\Debug\net8.0\Kordinat.pdb
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.dll
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\refint\Kordinat.dll
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\Kordinat.pdb
+C:\Users\Can\Desktop\CS2Plugin\Kordinat\Kordinat\obj\Debug\net8.0\ref\Kordinat.dll
